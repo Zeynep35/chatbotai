@@ -9,6 +9,8 @@ Projeyi iki modda çalıştırabilirsin:
 - **Ücretli / OpenAI Modu**: OpenAI API Key + kredi/billing ile gerçek modelden cevap döndürür.
 
 ---
+<img width="1072" height="590" alt="image" src="https://github.com/user-attachments/assets/70c6c629-dc8b-4926-84bb-7c9d78e596ed" />
+
 
 ## Özellikler
 
