@@ -23,20 +23,12 @@ Projeyi iki modda çalıştırabilirsin:
 ## Proje Yapısı
 
 chatbotai/
-
 main.py
-
 index.html
-
 .env (Git'e eklenmez)
-
 .gitignore
-
 requirements.txt
-
 README.md
-
-
 ---
 
 ## Kurulum
